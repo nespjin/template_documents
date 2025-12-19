@@ -2,6 +2,6 @@
   "showLineNumber": true,
   "rightToLeft": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "images",
+  "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true
 }

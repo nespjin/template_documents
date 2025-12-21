@@ -20,8 +20,19 @@
               "icon": "diff",
               "title": "Diff: community-plugins.json"
             }
+          },
+          {
+            "id": "5a958b93d893b496",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +213,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f89a3bfdb170f01a",
+  "active": "5a958b93d893b496",
   "lastOpenFiles": [
     "Profile.md",
     "Weekly Work Reports/2025/20251219.md",

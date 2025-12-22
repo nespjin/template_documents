@@ -8,5 +8,11 @@
   "obsidian-contextual-typography",
   "execute-code",
   "jupymd",
-  "open-in-new-tab"
+  "open-in-new-tab",
+  "dataview",
+  "obsidian-tasks-plugin",
+  "editing-toolbar",
+  "obsidian-pandoc",
+  "obsidian-day-planner",
+  "advanced-canvas"
 ]

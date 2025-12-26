@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f1860b6abf1c04f8",
+        "id": "5743cd579b5732cf",
         "type": "tabs",
         "children": [
           {
-            "id": "45f7241fe2393377",
+            "id": "924bbeccbec641c6",
             "type": "leaf",
             "state": {
-              "type": "planner-release-notes",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Day Planner Release 0.28.0"
+              "title": "新标签页"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "interactivity:Run Interactivity": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -210,7 +212,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "45f7241fe2393377",
+  "active": "924bbeccbec641c6",
   "lastOpenFiles": [
     "Profile.md",
     "Weekly Work Reports/2025/20251219.md",
